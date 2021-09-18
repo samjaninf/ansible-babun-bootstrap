@@ -1,5 +1,11 @@
 # ansible-babun-bootstrap
 
+## 🚨 DEPRECATED 🚨
+
+I'm no longer working on Windows as my main system (for several years I've been using mainly Ubuntu Linux). And now Windows 10 has WSL (Windows Subsystem for Linux).
+
+If you're a developer, you would have a much better time using WSL than Babun, and as it's Linux, it will be natively compatible with Ansible. So, you no longer need this script.
+
 ## Description
 
 Simple shell script to setup [Ansible](http://www.ansible.com/) within [Babun](http://babun.github.io/), to allow using Ansible from Windows without needing a virtual machine.
